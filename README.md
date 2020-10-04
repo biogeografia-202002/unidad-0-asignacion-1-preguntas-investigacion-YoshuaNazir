@@ -1,10 +1,10 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* Pregunta prueba
+* ¿ Cuales son las especies vegetales asociadas a Amazona Ventralis y Psittacara cloropterus?
 
-* ...
+* ¿ Cuales usos les dan estas aves a las especies vegetales asociadas a estas ?
 
-* ...
+* ¿ Cual es el ratio de presencia de Amazona ventralis comparado con Psittacara chloropterus en estas areas?
 
 # Base común
 
